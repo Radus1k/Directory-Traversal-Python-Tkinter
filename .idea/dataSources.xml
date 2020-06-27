@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="fuzzing" uuid="4dca60bd-0805-44ee-a5fe-1b812623042a">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\Licenta Proiect Practic\fuzzing.sqlite</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="fuzzing [2]" uuid="181956b3-45fe-41de-9bc7-8d428a0c0aba">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\Licenta Proiect Practic\fuzzing.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="fuzzing [3]" uuid="17984f43-957b-4fa0-bc34-7bcc6462d244">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\Licenta Proiect Practic\REST_API\fuzzing.sqlite</jdbc-url>
+    </data-source>
+  </component>
+</project>
